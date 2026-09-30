@@ -241,15 +241,6 @@ flowchart LR
 <img src="https://ghchart.rshah.org/00c2ff/satakshisingh1610" alt="Contribution chart" width="95%" />
 
 </div>
-
----
-
-## 🐍 Contribution Snake
-
-<div align="center">
-  <img src="https://raw.githubusercontent.com/satakshisingh1610/satakshisingh1610/output/github-contribution-grid-snake-dark.svg" alt="snake animation" />
-</div>
-
 ---
 
 ## 🎯 Currently Levelling Up
